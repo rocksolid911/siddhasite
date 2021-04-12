@@ -2618,6 +2618,7 @@ section.about{
 	display: inline-block;
 	margin-left: 25px;
 	margin-right: 25px;
+	font-size: 60px;
 }
 
 .quick-overview-tab li.nav-item:first-child{
